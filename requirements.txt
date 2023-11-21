@@ -3,7 +3,7 @@ numpy
 pandas_datareader
 yfinance
 seaborn
-sklearn
+scikit-learn
 matplotlib
 keras
 tensorflow
